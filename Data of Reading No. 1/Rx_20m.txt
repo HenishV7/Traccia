@@ -1,0 +1,972 @@
+13:35:45.814 -> 1600
+13:35:45.814 -> Received 1600 / 24bit Protocol: 1
+13:35:45.908 -> 1600
+13:35:45.908 -> Received 1600 / 24bit Protocol: 1
+13:35:46.008 -> 1600
+13:35:46.008 -> Received 1600 / 24bit Protocol: 1
+13:35:46.095 -> 1600
+13:35:46.095 -> Received 1600 / 24bit Protocol: 1
+13:35:46.190 -> 1600
+13:35:46.190 -> Received 1600 / 24bit Protocol: 1
+13:35:46.283 -> 5600
+13:35:46.283 -> Received 5600 / 24bit Protocol: 1
+13:35:46.377 -> 5600
+13:35:46.377 -> Received 5600 / 24bit Protocol: 1
+13:35:46.470 -> 5600
+13:35:46.470 -> Received 5600 / 24bit Protocol: 1
+13:35:46.564 -> 5600
+13:35:46.564 -> Received 5600 / 24bit Protocol: 1
+13:35:46.939 -> 1601
+13:35:46.939 -> Received 1601 / 24bit Protocol: 1
+13:35:47.039 -> 1601
+13:35:47.039 -> Received 1601 / 24bit Protocol: 1
+13:35:47.127 -> 1601
+13:35:47.127 -> Received 1601 / 24bit Protocol: 1
+13:35:47.220 -> 1601
+13:35:47.220 -> Received 1601 / 24bit Protocol: 1
+13:35:47.314 -> 1601
+13:35:47.314 -> Received 1601 / 24bit Protocol: 1
+13:35:47.408 -> 5601
+13:35:47.408 -> Received 5601 / 24bit Protocol: 1
+13:35:47.502 -> 5601
+13:35:47.502 -> Received 5601 / 24bit Protocol: 1
+13:35:47.595 -> 5601
+13:35:47.595 -> Received 5601 / 24bit Protocol: 1
+13:35:47.689 -> 5601
+13:35:47.689 -> Received 5601 / 24bit Protocol: 1
+13:35:48.063 -> 1602
+13:35:48.063 -> Received 1602 / 24bit Protocol: 1
+13:35:48.157 -> 1602
+13:35:48.157 -> Received 1602 / 24bit Protocol: 1
+13:35:48.250 -> 1602
+13:35:48.250 -> Received 1602 / 24bit Protocol: 1
+13:35:48.343 -> 1602
+13:35:48.343 -> Received 1602 / 24bit Protocol: 1
+13:35:48.390 -> 1602
+13:35:48.436 -> Received 1602 / 24bit Protocol: 1
+13:35:48.484 -> 5602
+13:35:48.530 -> Received 5602 / 24bit Protocol: 1
+13:35:48.577 -> 5602
+13:35:48.577 -> Received 5602 / 24bit Protocol: 1
+13:35:48.670 -> 5602
+13:35:48.717 -> Received 5602 / 24bit Protocol: 1
+13:35:48.766 -> 5602
+13:35:48.766 -> Received 5602 / 24bit Protocol: 1
+13:35:49.142 -> 1603
+13:35:49.142 -> Received 1603 / 24bit Protocol: 1
+13:35:49.235 -> 1603
+13:35:49.282 -> Received 1603 / 24bit Protocol: 1
+13:35:49.330 -> 1603
+13:35:49.330 -> Received 1603 / 24bit Protocol: 1
+13:35:49.423 -> 1603
+13:35:49.423 -> Received 1603 / 24bit Protocol: 1
+13:35:49.516 -> 1603
+13:35:49.516 -> Received 1603 / 24bit Protocol: 1
+13:35:49.611 -> 5603
+13:35:49.611 -> Received 5603 / 24bit Protocol: 1
+13:35:49.705 -> 5603
+13:35:49.705 -> Received 5603 / 24bit Protocol: 1
+13:35:49.799 -> 5603
+13:35:49.799 -> Received 5603 / 24bit Protocol: 1
+13:35:49.893 -> 5603
+13:35:49.893 -> Received 5603 / 24bit Protocol: 1
+13:35:50.270 -> 1604
+13:35:50.270 -> Received 1604 / 24bit Protocol: 1
+13:35:50.366 -> 1604
+13:35:50.366 -> Received 1604 / 24bit Protocol: 1
+13:35:50.460 -> 1604
+13:35:50.460 -> Received 1604 / 24bit Protocol: 1
+13:35:50.554 -> 1604
+13:35:50.554 -> Received 1604 / 24bit Protocol: 1
+13:35:50.646 -> 1604
+13:35:50.646 -> Received 1604 / 24bit Protocol: 1
+13:35:50.741 -> 5604
+13:35:50.741 -> Received 5604 / 24bit Protocol: 1
+13:35:50.836 -> 5604
+13:35:50.836 -> Received 5604 / 24bit Protocol: 1
+13:35:50.931 -> 5604
+13:35:50.931 -> Received 5604 / 24bit Protocol: 1
+13:35:50.978 -> 5604
+13:35:51.045 -> Received 5604 / 24bit Protocol: 1
+13:35:51.403 -> 1605
+13:35:51.403 -> Received 1605 / 24bit Protocol: 1
+13:35:51.497 -> 1605
+13:35:51.497 -> Received 1605 / 24bit Protocol: 1
+13:35:51.544 -> 1605
+13:35:51.591 -> Received 1605 / 24bit Protocol: 1
+13:35:51.638 -> 1605
+13:35:51.683 -> Received 1605 / 24bit Protocol: 1
+13:35:51.730 -> 1605
+13:35:51.777 -> Received 1605 / 24bit Protocol: 1
+13:35:51.822 -> 5605
+13:35:51.870 -> Received 5605 / 24bit Protocol: 1
+13:35:51.916 -> 5605
+13:35:51.962 -> Received 5605 / 24bit Protocol: 1
+13:35:52.010 -> 5605
+13:35:52.010 -> Received 5605 / 24bit Protocol: 1
+13:35:52.101 -> 5605
+13:35:52.101 -> Received 5605 / 24bit Protocol: 1
+13:35:52.478 -> 1606
+13:35:52.524 -> Received 1606 / 24bit Protocol: 1
+13:35:52.571 -> 1606
+13:35:52.571 -> Received 1606 / 24bit Protocol: 1
+13:35:52.664 -> 1606
+13:35:52.664 -> Received 1606 / 24bit Protocol: 1
+13:35:52.758 -> 1606
+13:35:52.758 -> Received 1606 / 24bit Protocol: 1
+13:35:52.852 -> 1606
+13:35:52.852 -> Received 1606 / 24bit Protocol: 1
+13:35:52.947 -> 5606
+13:35:52.947 -> Received 5606 / 24bit Protocol: 1
+13:35:53.075 -> 5606
+13:35:53.075 -> Received 5606 / 24bit Protocol: 1
+13:35:53.134 -> 5606
+13:35:53.134 -> Received 5606 / 24bit Protocol: 1
+13:35:53.229 -> 5606
+13:35:53.229 -> Received 5606 / 24bit Protocol: 1
+13:35:53.605 -> 1607
+13:35:53.605 -> Received 1607 / 24bit Protocol: 1
+13:35:53.698 -> 1607
+13:35:53.698 -> Received 1607 / 24bit Protocol: 1
+13:35:53.792 -> 1607
+13:35:53.792 -> Received 1607 / 24bit Protocol: 1
+13:35:53.887 -> 1607
+13:35:53.887 -> Received 1607 / 24bit Protocol: 1
+13:35:53.980 -> 1607
+13:35:53.980 -> Received 1607 / 24bit Protocol: 1
+13:35:54.087 -> 5607
+13:35:54.087 -> Received 5607 / 24bit Protocol: 1
+13:35:54.169 -> 5607
+13:35:54.169 -> Received 5607 / 24bit Protocol: 1
+13:35:54.262 -> 5607
+13:35:54.262 -> Received 5607 / 24bit Protocol: 1
+13:35:54.356 -> 5607
+13:35:54.356 -> Received 5607 / 24bit Protocol: 1
+13:35:54.731 -> 1608
+13:35:54.731 -> Received 1608 / 24bit Protocol: 1
+13:35:54.825 -> 1608
+13:35:54.825 -> Received 1608 / 24bit Protocol: 1
+13:35:54.919 -> 1608
+13:35:54.919 -> Received 1608 / 24bit Protocol: 1
+13:35:55.011 -> 1608
+13:35:55.011 -> Received 1608 / 24bit Protocol: 1
+13:35:55.093 -> 1608
+13:35:55.093 -> Received 1608 / 24bit Protocol: 1
+13:35:55.198 -> 5608
+13:35:55.198 -> Received 5608 / 24bit Protocol: 1
+13:35:55.290 -> 5608
+13:35:55.290 -> Received 5608 / 24bit Protocol: 1
+13:35:55.337 -> 5608
+13:35:55.383 -> Received 5608 / 24bit Protocol: 1
+13:35:55.431 -> 5608
+13:35:55.477 -> Received 5608 / 24bit Protocol: 1
+13:35:55.853 -> 1609
+13:35:55.853 -> Received 1609 / 24bit Protocol: 1
+13:35:55.947 -> 1609
+13:35:55.947 -> Received 1609 / 24bit Protocol: 1
+13:35:55.994 -> 1609
+13:35:56.039 -> Received 1609 / 24bit Protocol: 1
+13:35:56.113 -> 1609
+13:35:56.113 -> Received 1609 / 24bit Protocol: 1
+13:35:56.183 -> 1609
+13:35:56.183 -> Received 1609 / 24bit Protocol: 1
+13:35:56.275 -> 5609
+13:35:56.275 -> Received 5609 / 24bit Protocol: 1
+13:35:56.369 -> 5609
+13:35:56.369 -> Received 5609 / 24bit Protocol: 1
+13:35:56.463 -> 5609
+13:35:56.463 -> Received 5609 / 24bit Protocol: 1
+13:35:56.556 -> 5609
+13:35:56.556 -> Received 5609 / 24bit Protocol: 1
+13:35:56.933 -> 1610
+13:35:56.933 -> Received 1610 / 24bit Protocol: 1
+13:35:57.027 -> 1610
+13:35:57.027 -> Received 1610 / 24bit Protocol: 1
+13:35:57.122 -> 1610
+13:35:57.122 -> Received 1610 / 24bit Protocol: 1
+13:35:57.215 -> 1610
+13:35:57.215 -> Received 1610 / 24bit Protocol: 1
+13:35:57.310 -> 1610
+13:35:57.310 -> Received 1610 / 24bit Protocol: 1
+13:35:57.403 -> 5610
+13:35:57.403 -> Received 5610 / 24bit Protocol: 1
+13:35:57.498 -> 5610
+13:35:57.498 -> Received 5610 / 24bit Protocol: 1
+13:35:57.593 -> 5610
+13:35:57.593 -> Received 5610 / 24bit Protocol: 1
+13:35:57.687 -> 5610
+13:35:57.687 -> Received 5610 / 24bit Protocol: 1
+13:35:58.059 -> 1611
+13:35:58.059 -> Received 1611 / 24bit Protocol: 1
+13:35:58.151 -> 1611
+13:35:58.151 -> Received 1611 / 24bit Protocol: 1
+13:35:58.246 -> 1611
+13:35:58.246 -> Received 1611 / 24bit Protocol: 1
+13:35:58.338 -> 1611
+13:35:58.338 -> Received 1611 / 24bit Protocol: 1
+13:35:58.430 -> 1611
+13:35:58.430 -> Received 1611 / 24bit Protocol: 1
+13:35:58.526 -> 5611
+13:35:58.526 -> Received 5611 / 24bit Protocol: 1
+13:35:58.620 -> 5611
+13:35:58.620 -> Received 5611 / 24bit Protocol: 1
+13:35:58.713 -> 5611
+13:35:58.713 -> Received 5611 / 24bit Protocol: 1
+13:35:58.807 -> 5611
+13:35:58.807 -> Received 5611 / 24bit Protocol: 1
+13:35:59.183 -> 1612
+13:35:59.183 -> Received 1612 / 24bit Protocol: 1
+13:35:59.276 -> 1612
+13:35:59.276 -> Received 1612 / 24bit Protocol: 1
+13:35:59.371 -> 1612
+13:35:59.371 -> Received 1612 / 24bit Protocol: 1
+13:35:59.465 -> 1612
+13:35:59.465 -> Received 1612 / 24bit Protocol: 1
+13:35:59.512 -> 1612
+13:35:59.559 -> Received 1612 / 24bit Protocol: 1
+13:35:59.605 -> 5612
+13:35:59.651 -> Received 5612 / 24bit Protocol: 1
+13:35:59.698 -> 5612
+13:35:59.745 -> Received 5612 / 24bit Protocol: 1
+13:35:59.791 -> 5612
+13:35:59.791 -> Received 5612 / 24bit Protocol: 1
+13:35:59.885 -> 5612
+13:35:59.885 -> Received 5612 / 24bit Protocol: 1
+13:36:00.264 -> 1613
+13:36:00.309 -> Received 1613 / 24bit Protocol: 1
+13:36:00.356 -> 1613
+13:36:00.356 -> Received 1613 / 24bit Protocol: 1
+13:36:00.451 -> 1613
+13:36:00.451 -> Received 1613 / 24bit Protocol: 1
+13:36:00.544 -> 1613
+13:36:00.544 -> Received 1613 / 24bit Protocol: 1
+13:36:00.638 -> 1613
+13:36:00.638 -> Received 1613 / 24bit Protocol: 1
+13:36:00.732 -> 5613
+13:36:00.732 -> Received 5613 / 24bit Protocol: 1
+13:36:00.826 -> 5613
+13:36:00.826 -> Received 5613 / 24bit Protocol: 1
+13:36:00.922 -> 5613
+13:36:00.922 -> Received 5613 / 24bit Protocol: 1
+13:36:01.016 -> 5613
+13:36:01.016 -> Received 5613 / 24bit Protocol: 1
+13:36:01.393 -> 1614
+13:36:01.393 -> Received 1614 / 24bit Protocol: 1
+13:36:01.487 -> 1614
+13:36:01.487 -> Received 1614 / 24bit Protocol: 1
+13:36:01.583 -> 1614
+13:36:01.583 -> Received 1614 / 24bit Protocol: 1
+13:36:01.675 -> 1614
+13:36:01.675 -> Received 1614 / 24bit Protocol: 1
+13:36:01.770 -> 1614
+13:36:01.770 -> Received 1614 / 24bit Protocol: 1
+13:36:01.864 -> 5614
+13:36:01.864 -> Received 5614 / 24bit Protocol: 1
+13:36:01.958 -> 5614
+13:36:01.958 -> Received 5614 / 24bit Protocol: 1
+13:36:02.054 -> 5614
+13:36:02.054 -> Received 5614 / 24bit Protocol: 1
+13:36:02.140 -> 5614
+13:36:02.147 -> Received 5614 / 24bit Protocol: 1
+13:36:02.525 -> 1615
+13:36:02.525 -> Received 1615 / 24bit Protocol: 1
+13:36:02.618 -> 1615
+13:36:02.618 -> Received 1615 / 24bit Protocol: 1
+13:36:02.664 -> 1615
+13:36:02.711 -> Received 1615 / 24bit Protocol: 1
+13:36:02.759 -> 1615
+13:36:02.805 -> Received 1615 / 24bit Protocol: 1
+13:36:02.853 -> 1615
+13:36:02.853 -> Received 1615 / 24bit Protocol: 1
+13:36:02.946 -> 5615
+13:36:02.946 -> Received 5615 / 24bit Protocol: 1
+13:36:03.040 -> 5615
+13:36:03.040 -> Received 5615 / 24bit Protocol: 1
+13:36:03.143 -> 5615
+13:36:03.143 -> Received 5615 / 24bit Protocol: 1
+13:36:03.228 -> 5615
+13:36:03.228 -> Received 5615 / 24bit Protocol: 1
+13:36:03.603 -> 1616
+13:36:03.603 -> Received 1616 / 24bit Protocol: 1
+13:36:03.697 -> 1616
+13:36:03.697 -> Received 1616 / 24bit Protocol: 1
+13:36:03.791 -> 1616
+13:36:03.791 -> Received 1616 / 24bit Protocol: 1
+13:36:03.886 -> 1616
+13:36:03.886 -> Received 1616 / 24bit Protocol: 1
+13:36:03.980 -> 1616
+13:36:03.980 -> Received 1616 / 24bit Protocol: 1
+13:36:04.073 -> 5616
+13:36:04.073 -> Received 5616 / 24bit Protocol: 1
+13:36:04.147 -> 5616
+13:36:04.147 -> Received 5616 / 24bit Protocol: 1
+13:36:04.263 -> 5616
+13:36:04.263 -> Received 5616 / 24bit Protocol: 1
+13:36:04.357 -> 5616
+13:36:04.357 -> Received 5616 / 24bit Protocol: 1
+13:36:04.730 -> 1617
+13:36:04.730 -> Received 1617 / 24bit Protocol: 1
+13:36:04.825 -> 1617
+13:36:04.825 -> Received 1617 / 24bit Protocol: 1
+13:36:04.917 -> 1617
+13:36:04.917 -> Received 1617 / 24bit Protocol: 1
+13:36:05.011 -> 1617
+13:36:05.011 -> Received 1617 / 24bit Protocol: 1
+13:36:05.103 -> 1617
+13:36:05.103 -> Received 1617 / 24bit Protocol: 1
+13:36:05.198 -> 5617
+13:36:05.198 -> Received 5617 / 24bit Protocol: 1
+13:36:05.292 -> 5617
+13:36:05.292 -> Received 5617 / 24bit Protocol: 1
+13:36:05.385 -> 5617
+13:36:05.385 -> Received 5617 / 24bit Protocol: 1
+13:36:05.479 -> 5617
+13:36:05.479 -> Received 5617 / 24bit Protocol: 1
+13:36:05.854 -> 1618
+13:36:05.854 -> Received 1618 / 24bit Protocol: 1
+13:36:05.948 -> 1618
+13:36:05.948 -> Received 1618 / 24bit Protocol: 1
+13:36:06.043 -> 1618
+13:36:06.043 -> Received 1618 / 24bit Protocol: 1
+13:36:06.090 -> 1618
+13:36:06.149 -> Received 1618 / 24bit Protocol: 1
+13:36:06.184 -> 1618
+13:36:06.230 -> Received 1618 / 24bit Protocol: 1
+13:36:06.276 -> 5618
+13:36:06.322 -> Received 5618 / 24bit Protocol: 1
+13:36:06.368 -> 5618
+13:36:06.415 -> Received 5618 / 24bit Protocol: 1
+13:36:06.462 -> 5618
+13:36:06.508 -> Received 5618 / 24bit Protocol: 1
+13:36:06.556 -> 5618
+13:36:06.556 -> Received 5618 / 24bit Protocol: 1
+13:36:06.933 -> 1619
+13:36:06.978 -> Received 1619 / 24bit Protocol: 1
+13:36:07.025 -> 1619
+13:36:07.073 -> Received 1619 / 24bit Protocol: 1
+13:36:07.120 -> 1619
+13:36:07.120 -> Received 1619 / 24bit Protocol: 1
+13:36:07.213 -> 1619
+13:36:07.213 -> Received 1619 / 24bit Protocol: 1
+13:36:07.305 -> 1619
+13:36:07.305 -> Received 1619 / 24bit Protocol: 1
+13:36:07.400 -> 5619
+13:36:07.400 -> Received 5619 / 24bit Protocol: 1
+13:36:07.494 -> 5619
+13:36:07.494 -> Received 5619 / 24bit Protocol: 1
+13:36:07.587 -> 5619
+13:36:07.587 -> Received 5619 / 24bit Protocol: 1
+13:36:07.683 -> 5619
+13:36:07.683 -> Received 5619 / 24bit Protocol: 1
+13:36:08.057 -> 1620
+13:36:08.057 -> Received 1620 / 24bit Protocol: 1
+13:36:08.150 -> 1620
+13:36:08.150 -> Received 1620 / 24bit Protocol: 1
+13:36:08.244 -> 1620
+13:36:08.244 -> Received 1620 / 24bit Protocol: 1
+13:36:08.339 -> 1620
+13:36:08.339 -> Received 1620 / 24bit Protocol: 1
+13:36:08.431 -> 1620
+13:36:08.431 -> Received 1620 / 24bit Protocol: 1
+13:36:08.524 -> 5620
+13:36:08.524 -> Received 5620 / 24bit Protocol: 1
+13:36:08.619 -> 5620
+13:36:08.619 -> Received 5620 / 24bit Protocol: 1
+13:36:08.712 -> 5620
+13:36:08.712 -> Received 5620 / 24bit Protocol: 1
+13:36:08.805 -> 5620
+13:36:08.805 -> Received 5620 / 24bit Protocol: 1
+13:36:09.181 -> 1621
+13:36:09.181 -> Received 1621 / 24bit Protocol: 1
+13:36:09.274 -> 1621
+13:36:09.274 -> Received 1621 / 24bit Protocol: 1
+13:36:09.367 -> 1621
+13:36:09.367 -> Received 1621 / 24bit Protocol: 1
+13:36:09.460 -> 1621
+13:36:09.460 -> Received 1621 / 24bit Protocol: 1
+13:36:09.554 -> 1621
+13:36:09.554 -> Received 1621 / 24bit Protocol: 1
+13:36:09.646 -> 5621
+13:36:09.646 -> Received 5621 / 24bit Protocol: 1
+13:36:09.739 -> 5621
+13:36:09.739 -> Received 5621 / 24bit Protocol: 1
+13:36:09.833 -> 5621
+13:36:09.833 -> Received 5621 / 24bit Protocol: 1
+13:36:09.927 -> 5621
+13:36:09.927 -> Received 5621 / 24bit Protocol: 1
+13:36:10.302 -> 1622
+13:36:10.302 -> Received 1622 / 24bit Protocol: 1
+13:36:10.394 -> 1622
+13:36:10.394 -> Received 1622 / 24bit Protocol: 1
+13:36:10.487 -> 1622
+13:36:10.487 -> Received 1622 / 24bit Protocol: 1
+13:36:10.581 -> 1622
+13:36:10.581 -> Received 1622 / 24bit Protocol: 1
+13:36:10.675 -> 1622
+13:36:10.675 -> Received 1622 / 24bit Protocol: 1
+13:36:10.723 -> 5622
+13:36:10.770 -> Received 5622 / 24bit Protocol: 1
+13:36:10.817 -> 5622
+13:36:10.865 -> Received 5622 / 24bit Protocol: 1
+13:36:10.911 -> 5622
+13:36:10.911 -> Received 5622 / 24bit Protocol: 1
+13:36:11.004 -> 5622
+13:36:11.004 -> Received 5622 / 24bit Protocol: 1
+13:36:11.382 -> 1623
+13:36:11.427 -> Received 1623 / 24bit Protocol: 1
+13:36:11.473 -> 1623
+13:36:11.521 -> Received 1623 / 24bit Protocol: 1
+13:36:11.569 -> 1623
+13:36:11.569 -> Received 1623 / 24bit Protocol: 1
+13:36:11.660 -> 1623
+13:36:11.660 -> Received 1623 / 24bit Protocol: 1
+13:36:11.754 -> 1623
+13:36:11.754 -> Received 1623 / 24bit Protocol: 1
+13:36:11.848 -> 5623
+13:36:11.848 -> Received 5623 / 24bit Protocol: 1
+13:36:11.942 -> 5623
+13:36:11.942 -> Received 5623 / 24bit Protocol: 1
+13:36:12.036 -> 5623
+13:36:12.036 -> Received 5623 / 24bit Protocol: 1
+13:36:12.128 -> 5623
+13:36:12.128 -> Received 5623 / 24bit Protocol: 1
+13:36:12.505 -> 1624
+13:36:12.505 -> Received 1624 / 24bit Protocol: 1
+13:36:12.598 -> 1624
+13:36:12.598 -> Received 1624 / 24bit Protocol: 1
+13:36:12.690 -> 1624
+13:36:12.690 -> Received 1624 / 24bit Protocol: 1
+13:36:12.785 -> 1624
+13:36:12.785 -> Received 1624 / 24bit Protocol: 1
+13:36:12.877 -> 1624
+13:36:12.877 -> Received 1624 / 24bit Protocol: 1
+13:36:12.971 -> 5624
+13:36:12.971 -> Received 5624 / 24bit Protocol: 1
+13:36:13.064 -> 5624
+13:36:13.064 -> Received 5624 / 24bit Protocol: 1
+13:36:13.157 -> 5624
+13:36:13.157 -> Received 5624 / 24bit Protocol: 1
+13:36:13.250 -> 5624
+13:36:13.250 -> Received 5624 / 24bit Protocol: 1
+13:36:13.627 -> 1625
+13:36:13.627 -> Received 1625 / 24bit Protocol: 1
+13:36:13.721 -> 1625
+13:36:13.721 -> Received 1625 / 24bit Protocol: 1
+13:36:13.815 -> 1625
+13:36:13.815 -> Received 1625 / 24bit Protocol: 1
+13:36:13.908 -> 1625
+13:36:13.908 -> Received 1625 / 24bit Protocol: 1
+13:36:14.002 -> 1625
+13:36:14.002 -> Received 1625 / 24bit Protocol: 1
+13:36:14.096 -> 5625
+13:36:14.096 -> Received 5625 / 24bit Protocol: 1
+13:36:14.190 -> 5625
+13:36:14.190 -> Received 5625 / 24bit Protocol: 1
+13:36:14.283 -> 5625
+13:36:14.283 -> Received 5625 / 24bit Protocol: 1
+13:36:14.331 -> 5625
+13:36:14.378 -> Received 5625 / 24bit Protocol: 1
+13:36:14.753 -> 1626
+13:36:14.753 -> Received 1626 / 24bit Protocol: 1
+13:36:14.847 -> 1626
+13:36:14.847 -> Received 1626 / 24bit Protocol: 1
+13:36:14.942 -> 1626
+13:36:14.942 -> Received 1626 / 24bit Protocol: 1
+13:36:14.990 -> 1626
+13:36:15.036 -> Received 1626 / 24bit Protocol: 1
+13:36:15.083 -> 1626
+13:36:15.131 -> Received 1626 / 24bit Protocol: 1
+13:36:15.178 -> 5626
+13:36:15.178 -> Received 5626 / 24bit Protocol: 1
+13:36:15.272 -> 5626
+13:36:15.272 -> Received 5626 / 24bit Protocol: 1
+13:36:15.365 -> 5626
+13:36:15.365 -> Received 5626 / 24bit Protocol: 1
+13:36:15.460 -> 5626
+13:36:15.460 -> Received 5626 / 24bit Protocol: 1
+13:36:15.836 -> 1627
+13:36:15.836 -> Received 1627 / 24bit Protocol: 1
+13:36:15.930 -> 1627
+13:36:15.930 -> Received 1627 / 24bit Protocol: 1
+13:36:16.023 -> 1627
+13:36:16.023 -> Received 1627 / 24bit Protocol: 1
+13:36:16.117 -> 1627
+13:36:16.117 -> Received 1627 / 24bit Protocol: 1
+13:36:16.210 -> 1627
+13:36:16.210 -> Received 1627 / 24bit Protocol: 1
+13:36:16.304 -> 5627
+13:36:16.304 -> Received 5627 / 24bit Protocol: 1
+13:36:16.397 -> 5627
+13:36:16.397 -> Received 5627 / 24bit Protocol: 1
+13:36:16.490 -> 5627
+13:36:16.490 -> Received 5627 / 24bit Protocol: 1
+13:36:16.583 -> 5627
+13:36:16.583 -> Received 5627 / 24bit Protocol: 1
+13:36:16.960 -> 1628
+13:36:16.960 -> Received 1628 / 24bit Protocol: 1
+13:36:17.056 -> 1628
+13:36:17.056 -> Received 1628 / 24bit Protocol: 1
+13:36:17.148 -> 1628
+13:36:17.148 -> Received 1628 / 24bit Protocol: 1
+13:36:17.244 -> 1628
+13:36:17.244 -> Received 1628 / 24bit Protocol: 1
+13:36:17.336 -> 1628
+13:36:17.336 -> Received 1628 / 24bit Protocol: 1
+13:36:17.429 -> 5628
+13:36:17.429 -> Received 5628 / 24bit Protocol: 1
+13:36:17.523 -> 5628
+13:36:17.523 -> Received 5628 / 24bit Protocol: 1
+13:36:17.617 -> 5628
+13:36:17.617 -> Received 5628 / 24bit Protocol: 1
+13:36:17.711 -> 5628
+13:36:17.711 -> Received 5628 / 24bit Protocol: 1
+13:36:18.084 -> 1629
+13:36:18.084 -> Received 1629 / 24bit Protocol: 1
+13:36:18.178 -> 1629
+13:36:18.178 -> Received 1629 / 24bit Protocol: 1
+13:36:18.273 -> 1629
+13:36:18.273 -> Received 1629 / 24bit Protocol: 1
+13:36:18.367 -> 1629
+13:36:18.367 -> Received 1629 / 24bit Protocol: 1
+13:36:18.461 -> 1629
+13:36:18.461 -> Received 1629 / 24bit Protocol: 1
+13:36:18.508 -> 5629
+13:36:18.554 -> Received 5629 / 24bit Protocol: 1
+13:36:18.601 -> 5629
+13:36:18.648 -> Received 5629 / 24bit Protocol: 1
+13:36:18.695 -> 5629
+13:36:18.695 -> Received 5629 / 24bit Protocol: 1
+13:36:18.790 -> 5629
+13:36:18.790 -> Received 5629 / 24bit Protocol: 1
+13:36:19.166 -> 1630
+13:36:19.213 -> Received 1630 / 24bit Protocol: 1
+13:36:19.260 -> 1630
+13:36:19.260 -> Received 1630 / 24bit Protocol: 1
+13:36:19.354 -> 1630
+13:36:19.354 -> Received 1630 / 24bit Protocol: 1
+13:36:19.447 -> 1630
+13:36:19.447 -> Received 1630 / 24bit Protocol: 1
+13:36:19.542 -> 1630
+13:36:19.542 -> Received 1630 / 24bit Protocol: 1
+13:36:19.636 -> 5630
+13:36:19.636 -> Received 5630 / 24bit Protocol: 1
+13:36:19.730 -> 5630
+13:36:19.730 -> Received 5630 / 24bit Protocol: 1
+13:36:19.824 -> 5630
+13:36:19.824 -> Received 5630 / 24bit Protocol: 1
+13:36:19.918 -> 5630
+13:36:19.918 -> Received 5630 / 24bit Protocol: 1
+13:36:20.295 -> 1631
+13:36:20.295 -> Received 1631 / 24bit Protocol: 1
+13:36:20.390 -> 1631
+13:36:20.390 -> Received 1631 / 24bit Protocol: 1
+13:36:20.483 -> 1631
+13:36:20.483 -> Received 1631 / 24bit Protocol: 1
+13:36:20.578 -> 1631
+13:36:20.578 -> Received 1631 / 24bit Protocol: 1
+13:36:20.673 -> 1631
+13:36:20.673 -> Received 1631 / 24bit Protocol: 1
+13:36:20.767 -> 5631
+13:36:20.767 -> Received 5631 / 24bit Protocol: 1
+13:36:20.860 -> 5631
+13:36:20.860 -> Received 5631 / 24bit Protocol: 1
+13:36:20.953 -> 5631
+13:36:20.953 -> Received 5631 / 24bit Protocol: 1
+13:36:21.048 -> 5631
+13:36:21.048 -> Received 5631 / 24bit Protocol: 1
+13:36:21.424 -> 1632
+13:36:21.424 -> Received 1632 / 24bit Protocol: 1
+13:36:21.518 -> 1632
+13:36:21.518 -> Received 1632 / 24bit Protocol: 1
+13:36:21.613 -> 1632
+13:36:21.613 -> Received 1632 / 24bit Protocol: 1
+13:36:21.660 -> 1632
+13:36:21.707 -> Received 1632 / 24bit Protocol: 1
+13:36:21.754 -> 1632
+13:36:21.802 -> Received 1632 / 24bit Protocol: 1
+13:36:21.849 -> 5632
+13:36:21.849 -> Received 5632 / 24bit Protocol: 1
+13:36:21.942 -> 5632
+13:36:21.942 -> Received 5632 / 24bit Protocol: 1
+13:36:22.034 -> 5632
+13:36:22.034 -> Received 5632 / 24bit Protocol: 1
+13:36:22.126 -> 5632
+13:36:22.126 -> Received 5632 / 24bit Protocol: 1
+13:36:22.503 -> 1633
+13:36:22.548 -> Received 1633 / 24bit Protocol: 1
+13:36:22.595 -> 1633
+13:36:22.595 -> Received 1633 / 24bit Protocol: 1
+13:36:22.689 -> 1633
+13:36:22.689 -> Received 1633 / 24bit Protocol: 1
+13:36:22.783 -> 1633
+13:36:22.783 -> Received 1633 / 24bit Protocol: 1
+13:36:22.876 -> 1633
+13:36:22.876 -> Received 1633 / 24bit Protocol: 1
+13:36:22.971 -> 5633
+13:36:22.971 -> Received 5633 / 24bit Protocol: 1
+13:36:23.064 -> 5633
+13:36:23.064 -> Received 5633 / 24bit Protocol: 1
+13:36:23.159 -> 5633
+13:36:23.159 -> Received 5633 / 24bit Protocol: 1
+13:36:23.252 -> 5633
+13:36:23.252 -> Received 5633 / 24bit Protocol: 1
+13:36:23.629 -> 1634
+13:36:23.629 -> Received 1634 / 24bit Protocol: 1
+13:36:23.722 -> 1634
+13:36:23.722 -> Received 1634 / 24bit Protocol: 1
+13:36:23.815 -> 1634
+13:36:23.815 -> Received 1634 / 24bit Protocol: 1
+13:36:23.909 -> 1634
+13:36:23.909 -> Received 1634 / 24bit Protocol: 1
+13:36:24.001 -> 1634
+13:36:24.001 -> Received 1634 / 24bit Protocol: 1
+13:36:24.095 -> 5634
+13:36:24.095 -> Received 5634 / 24bit Protocol: 1
+13:36:24.189 -> 5634
+13:36:24.189 -> Received 5634 / 24bit Protocol: 1
+13:36:24.291 -> 5634
+13:36:24.291 -> Received 5634 / 24bit Protocol: 1
+13:36:24.376 -> 5634
+13:36:24.376 -> Received 5634 / 24bit Protocol: 1
+13:36:24.751 -> 1635
+13:36:24.751 -> Received 1635 / 24bit Protocol: 1
+13:36:24.846 -> 1635
+13:36:24.846 -> Received 1635 / 24bit Protocol: 1
+13:36:24.938 -> 1635
+13:36:24.938 -> Received 1635 / 24bit Protocol: 1
+13:36:25.031 -> 1635
+13:36:25.031 -> Received 1635 / 24bit Protocol: 1
+13:36:25.125 -> 1635
+13:36:25.125 -> Received 1635 / 24bit Protocol: 1
+13:36:25.220 -> 5635
+13:36:25.220 -> Received 5635 / 24bit Protocol: 1
+13:36:25.313 -> 5635
+13:36:25.313 -> Received 5635 / 24bit Protocol: 1
+13:36:25.360 -> 5635
+13:36:25.406 -> Received 5635 / 24bit Protocol: 1
+13:36:25.499 -> 5635
+13:36:25.499 -> Received 5635 / 24bit Protocol: 1
+13:36:25.875 -> 1636
+13:36:25.875 -> Received 1636 / 24bit Protocol: 1
+13:36:25.968 -> 1636
+13:36:25.968 -> Received 1636 / 24bit Protocol: 1
+13:36:26.061 -> 1636
+13:36:26.061 -> Received 1636 / 24bit Protocol: 1
+13:36:26.154 -> 1636
+13:36:26.154 -> Received 1636 / 24bit Protocol: 1
+13:36:26.199 -> 1636
+13:36:26.246 -> Received 1636 / 24bit Protocol: 1
+13:36:26.293 -> 5636
+13:36:26.341 -> Received 5636 / 24bit Protocol: 1
+13:36:26.387 -> 5636
+13:36:26.387 -> Received 5636 / 24bit Protocol: 1
+13:36:26.481 -> 5636
+13:36:26.481 -> Received 5636 / 24bit Protocol: 1
+13:36:26.575 -> 5636
+13:36:26.575 -> Received 5636 / 24bit Protocol: 1
+13:36:26.951 -> 1637
+13:36:26.997 -> Received 1637 / 24bit Protocol: 1
+13:36:27.045 -> 1637
+13:36:27.045 -> Received 1637 / 24bit Protocol: 1
+13:36:27.138 -> 1637
+13:36:27.138 -> Received 1637 / 24bit Protocol: 1
+13:36:27.231 -> 1637
+13:36:27.231 -> Received 1637 / 24bit Protocol: 1
+13:36:27.336 -> 1637
+13:36:27.336 -> Received 1637 / 24bit Protocol: 1
+13:36:27.417 -> 5637
+13:36:27.417 -> Received 5637 / 24bit Protocol: 1
+13:36:27.511 -> 5637
+13:36:27.511 -> Received 5637 / 24bit Protocol: 1
+13:36:27.605 -> 5637
+13:36:27.605 -> Received 5637 / 24bit Protocol: 1
+13:36:27.698 -> 5637
+13:36:27.698 -> Received 5637 / 24bit Protocol: 1
+13:36:28.074 -> 1638
+13:36:28.074 -> Received 1638 / 24bit Protocol: 1
+13:36:28.168 -> 1638
+13:36:28.168 -> Received 1638 / 24bit Protocol: 1
+13:36:28.260 -> 1638
+13:36:28.260 -> Received 1638 / 24bit Protocol: 1
+13:36:28.353 -> 1638
+13:36:28.353 -> Received 1638 / 24bit Protocol: 1
+13:36:28.446 -> 1638
+13:36:28.446 -> Received 1638 / 24bit Protocol: 1
+13:36:28.540 -> 5638
+13:36:28.540 -> Received 5638 / 24bit Protocol: 1
+13:36:28.634 -> 5638
+13:36:28.634 -> Received 5638 / 24bit Protocol: 1
+13:36:28.727 -> 5638
+13:36:28.727 -> Received 5638 / 24bit Protocol: 1
+13:36:28.820 -> 5638
+13:36:28.820 -> Received 5638 / 24bit Protocol: 1
+13:36:29.197 -> 1639
+13:36:29.197 -> Received 1639 / 24bit Protocol: 1
+13:36:29.290 -> 1639
+13:36:29.290 -> Received 1639 / 24bit Protocol: 1
+13:36:29.383 -> 1639
+13:36:29.383 -> Received 1639 / 24bit Protocol: 1
+13:36:29.476 -> 1639
+13:36:29.476 -> Received 1639 / 24bit Protocol: 1
+13:36:29.570 -> 1639
+13:36:29.570 -> Received 1639 / 24bit Protocol: 1
+13:36:29.664 -> 5639
+13:36:29.664 -> Received 5639 / 24bit Protocol: 1
+13:36:29.756 -> 5639
+13:36:29.756 -> Received 5639 / 24bit Protocol: 1
+13:36:29.850 -> 5639
+13:36:29.850 -> Received 5639 / 24bit Protocol: 1
+13:36:29.942 -> 5639
+13:36:29.942 -> Received 5639 / 24bit Protocol: 1
+13:36:30.318 -> 1640
+13:36:30.318 -> Received 1640 / 24bit Protocol: 1
+13:36:30.412 -> 1640
+13:36:30.412 -> Received 1640 / 24bit Protocol: 1
+13:36:30.505 -> 1640
+13:36:30.505 -> Received 1640 / 24bit Protocol: 1
+13:36:30.600 -> 1640
+13:36:30.600 -> Received 1640 / 24bit Protocol: 1
+13:36:30.693 -> 1640
+13:36:30.693 -> Received 1640 / 24bit Protocol: 1
+13:36:30.738 -> 5640
+13:36:30.784 -> Received 5640 / 24bit Protocol: 1
+13:36:30.832 -> 5640
+13:36:30.879 -> Received 5640 / 24bit Protocol: 1
+13:36:30.926 -> 5640
+13:36:30.926 -> Received 5640 / 24bit Protocol: 1
+13:36:31.021 -> 5640
+13:36:31.021 -> Received 5640 / 24bit Protocol: 1
+13:36:31.395 -> 1641
+13:36:31.442 -> Received 1641 / 24bit Protocol: 1
+13:36:31.489 -> 1641
+13:36:31.536 -> Received 1641 / 24bit Protocol: 1
+13:36:31.583 -> 1641
+13:36:31.583 -> Received 1641 / 24bit Protocol: 1
+13:36:31.676 -> 1641
+13:36:31.676 -> Received 1641 / 24bit Protocol: 1
+13:36:31.771 -> 1641
+13:36:31.771 -> Received 1641 / 24bit Protocol: 1
+13:36:31.863 -> 5641
+13:36:31.863 -> Received 5641 / 24bit Protocol: 1
+13:36:31.958 -> 5641
+13:36:31.958 -> Received 5641 / 24bit Protocol: 1
+13:36:32.051 -> 5641
+13:36:32.051 -> Received 5641 / 24bit Protocol: 1
+13:36:32.144 -> 5641
+13:36:32.144 -> Received 5641 / 24bit Protocol: 1
+13:36:32.520 -> 1642
+13:36:32.520 -> Received 1642 / 24bit Protocol: 1
+13:36:32.614 -> 1642
+13:36:32.614 -> Received 1642 / 24bit Protocol: 1
+13:36:32.707 -> 1642
+13:36:32.707 -> Received 1642 / 24bit Protocol: 1
+13:36:32.801 -> 1642
+13:36:32.801 -> Received 1642 / 24bit Protocol: 1
+13:36:32.894 -> 1642
+13:36:32.894 -> Received 1642 / 24bit Protocol: 1
+13:36:32.986 -> 5642
+13:36:32.986 -> Received 5642 / 24bit Protocol: 1
+13:36:33.081 -> 5642
+13:36:33.081 -> Received 5642 / 24bit Protocol: 1
+13:36:33.175 -> 5642
+13:36:33.175 -> Received 5642 / 24bit Protocol: 1
+13:36:33.272 -> 5642
+13:36:33.272 -> Received 5642 / 24bit Protocol: 1
+13:36:33.648 -> 1643
+13:36:33.648 -> Received 1643 / 24bit Protocol: 1
+13:36:33.743 -> 1643
+13:36:33.743 -> Received 1643 / 24bit Protocol: 1
+13:36:33.836 -> 1643
+13:36:33.836 -> Received 1643 / 24bit Protocol: 1
+13:36:33.929 -> 1643
+13:36:33.929 -> Received 1643 / 24bit Protocol: 1
+13:36:34.023 -> 1643
+13:36:34.023 -> Received 1643 / 24bit Protocol: 1
+13:36:34.116 -> 5643
+13:36:34.116 -> Received 5643 / 24bit Protocol: 1
+13:36:34.210 -> 5643
+13:36:34.210 -> Received 5643 / 24bit Protocol: 1
+13:36:34.257 -> 5643
+13:36:34.303 -> Received 5643 / 24bit Protocol: 1
+13:36:34.351 -> 5643
+13:36:34.397 -> Received 5643 / 24bit Protocol: 1
+13:36:34.776 -> 1644
+13:36:34.776 -> Received 1644 / 24bit Protocol: 1
+13:36:34.822 -> 1644
+13:36:34.870 -> Received 1644 / 24bit Protocol: 1
+13:36:34.916 -> 1644
+13:36:34.964 -> Received 1644 / 24bit Protocol: 1
+13:36:35.009 -> 1644
+13:36:35.009 -> Received 1644 / 24bit Protocol: 1
+13:36:35.104 -> 1644
+13:36:35.104 -> Received 1644 / 24bit Protocol: 1
+13:36:35.197 -> 5644
+13:36:35.197 -> Received 5644 / 24bit Protocol: 1
+13:36:35.291 -> 5644
+13:36:35.291 -> Received 5644 / 24bit Protocol: 1
+13:36:35.384 -> 5644
+13:36:35.384 -> Received 5644 / 24bit Protocol: 1
+13:36:35.477 -> 5644
+13:36:35.477 -> Received 5644 / 24bit Protocol: 1
+13:36:35.856 -> 1645
+13:36:35.856 -> Received 1645 / 24bit Protocol: 1
+13:36:35.949 -> 1645
+13:36:35.949 -> Received 1645 / 24bit Protocol: 1
+13:36:36.043 -> 1645
+13:36:36.043 -> Received 1645 / 24bit Protocol: 1
+13:36:36.136 -> 1645
+13:36:36.136 -> Received 1645 / 24bit Protocol: 1
+13:36:36.231 -> 1645
+13:36:36.231 -> Received 1645 / 24bit Protocol: 1
+13:36:36.324 -> 5645
+13:36:36.324 -> Received 5645 / 24bit Protocol: 1
+13:36:36.427 -> 5645
+13:36:36.427 -> Received 5645 / 24bit Protocol: 1
+13:36:36.511 -> 5645
+13:36:36.511 -> Received 5645 / 24bit Protocol: 1
+13:36:36.605 -> 5645
+13:36:36.605 -> Received 5645 / 24bit Protocol: 1
+13:36:36.979 -> 1646
+13:36:36.979 -> Received 1646 / 24bit Protocol: 1
+13:36:37.073 -> 1646
+13:36:37.073 -> Received 1646 / 24bit Protocol: 1
+13:36:37.165 -> 1646
+13:36:37.165 -> Received 1646 / 24bit Protocol: 1
+13:36:37.258 -> 1646
+13:36:37.258 -> Received 1646 / 24bit Protocol: 1
+13:36:37.352 -> 1646
+13:36:37.352 -> Received 1646 / 24bit Protocol: 1
+13:36:37.446 -> 5646
+13:36:37.446 -> Received 5646 / 24bit Protocol: 1
+13:36:37.540 -> 5646
+13:36:37.540 -> Received 5646 / 24bit Protocol: 1
+13:36:37.632 -> 5646
+13:36:37.632 -> Received 5646 / 24bit Protocol: 1
+13:36:37.726 -> 5646
+13:36:37.726 -> Received 5646 / 24bit Protocol: 1
+13:36:38.099 -> 1647
+13:36:38.099 -> Received 1647 / 24bit Protocol: 1
+13:36:38.191 -> 1647
+13:36:38.191 -> Received 1647 / 24bit Protocol: 1
+13:36:38.286 -> 1647
+13:36:38.286 -> Received 1647 / 24bit Protocol: 1
+13:36:38.379 -> 1647
+13:36:38.379 -> Received 1647 / 24bit Protocol: 1
+13:36:38.473 -> 1647
+13:36:38.473 -> Received 1647 / 24bit Protocol: 1
+13:36:38.520 -> 5647
+13:36:38.567 -> Received 5647 / 24bit Protocol: 1
+13:36:38.660 -> 5647
+13:36:38.660 -> Received 5647 / 24bit Protocol: 1
+13:36:38.708 -> 5647
+13:36:38.754 -> Received 5647 / 24bit Protocol: 1
+13:36:38.801 -> 5647
+13:36:38.847 -> Received 5647 / 24bit Protocol: 1
+13:36:39.222 -> 1648
+13:36:39.222 -> Received 1648 / 24bit Protocol: 1
+13:36:39.270 -> 1648
+13:36:39.315 -> Received 1648 / 24bit Protocol: 1
+13:36:39.363 -> 1648
+13:36:39.410 -> Received 1648 / 24bit Protocol: 1
+13:36:39.470 -> 1648
+13:36:39.502 -> Received 1648 / 24bit Protocol: 1
+13:36:39.550 -> 1648
+13:36:39.550 -> Received 1648 / 24bit Protocol: 1
+13:36:39.644 -> 5648
+13:36:39.644 -> Received 5648 / 24bit Protocol: 1
+13:36:39.738 -> 5648
+13:36:39.738 -> Received 5648 / 24bit Protocol: 1
+13:36:39.831 -> 5648
+13:36:39.831 -> Received 5648 / 24bit Protocol: 1
+13:36:39.924 -> 5648
+13:36:39.924 -> Received 5648 / 24bit Protocol: 1
+13:36:40.302 -> 1649
+13:36:40.302 -> Received 1649 / 24bit Protocol: 1
+13:36:40.394 -> 1649
+13:36:40.394 -> Received 1649 / 24bit Protocol: 1
+13:36:40.488 -> 1649
+13:36:40.488 -> Received 1649 / 24bit Protocol: 1
+13:36:40.582 -> 1649
+13:36:40.582 -> Received 1649 / 24bit Protocol: 1
+13:36:40.679 -> 1649
+13:36:40.679 -> Received 1649 / 24bit Protocol: 1
+13:36:40.771 -> 5649
+13:36:40.771 -> Received 5649 / 24bit Protocol: 1
+13:36:40.866 -> 5649
+13:36:40.866 -> Received 5649 / 24bit Protocol: 1
+13:36:40.960 -> 5649
+13:36:40.960 -> Received 5649 / 24bit Protocol: 1
+13:36:41.053 -> 5649
+13:36:41.053 -> Received 5649 / 24bit Protocol: 1
+13:36:41.429 -> 1650
+13:36:41.429 -> Received 1650 / 24bit Protocol: 1
+13:36:41.523 -> 1650
+13:36:41.523 -> Received 1650 / 24bit Protocol: 1
+13:36:41.616 -> 1650
+13:36:41.616 -> Received 1650 / 24bit Protocol: 1
+13:36:41.708 -> 1650
+13:36:41.708 -> Received 1650 / 24bit Protocol: 1
+13:36:41.801 -> 1650
+13:36:41.801 -> Received 1650 / 24bit Protocol: 1
+13:36:41.896 -> 5650
+13:36:41.896 -> Received 5650 / 24bit Protocol: 1
+13:36:41.990 -> 5650
+13:36:41.990 -> Received 5650 / 24bit Protocol: 1
+13:36:42.083 -> 5650
+13:36:42.083 -> Received 5650 / 24bit Protocol: 1
+13:36:42.176 -> 5650
+13:36:42.176 -> Received 5650 / 24bit Protocol: 1
+13:36:42.554 -> 1651
+13:36:42.554 -> Received 1651 / 24bit Protocol: 1
+13:36:42.646 -> 1651
+13:36:42.646 -> Received 1651 / 24bit Protocol: 1
+13:36:42.740 -> 1651
+13:36:42.740 -> Received 1651 / 24bit Protocol: 1
+13:36:42.834 -> 1651
+13:36:42.834 -> Received 1651 / 24bit Protocol: 1
+13:36:42.880 -> 1651
+13:36:42.926 -> Received 1651 / 24bit Protocol: 1
+13:36:42.973 -> 5651
+13:36:43.020 -> Received 5651 / 24bit Protocol: 1
+13:36:43.068 -> 5651
+13:36:43.068 -> Received 5651 / 24bit Protocol: 1
+13:36:43.162 -> 5651
+13:36:43.162 -> Received 5651 / 24bit Protocol: 1
+13:36:43.257 -> 5651
+13:36:43.257 -> Received 5651 / 24bit Protocol: 1
+13:36:43.633 -> 1652
+13:36:43.680 -> Received 1652 / 24bit Protocol: 1
+13:36:43.725 -> 1652
+13:36:43.725 -> Received 1652 / 24bit Protocol: 1
+13:36:43.819 -> 1652
+13:36:43.819 -> Received 1652 / 24bit Protocol: 1
+13:36:43.912 -> 1652
+13:36:43.912 -> Received 1652 / 24bit Protocol: 1
+13:36:44.006 -> 1652
+13:36:44.006 -> Received 1652 / 24bit Protocol: 1
+13:36:44.100 -> 5652
+13:36:44.100 -> Received 5652 / 24bit Protocol: 1
+13:36:44.193 -> 5652
+13:36:44.193 -> Received 5652 / 24bit Protocol: 1
+13:36:44.288 -> 5652
+13:36:44.288 -> Received 5652 / 24bit Protocol: 1
+13:36:44.382 -> 5652
+13:36:44.382 -> Received 5652 / 24bit Protocol: 1
+13:36:44.756 -> 1653
+13:36:44.756 -> Received 1653 / 24bit Protocol: 1
+13:36:44.850 -> 1653
+13:36:44.850 -> Received 1653 / 24bit Protocol: 1
+13:36:44.943 -> 1653
+13:36:44.943 -> Received 1653 / 24bit Protocol: 1
+13:36:45.037 -> 1653
+13:36:45.037 -> Received 1653 / 24bit Protocol: 1
+13:36:45.130 -> 1653
+13:36:45.130 -> Received 1653 / 24bit Protocol: 1
+13:36:45.224 -> 5653
+13:36:45.224 -> Received 5653 / 24bit Protocol: 1
+13:36:45.318 -> 5653
+13:36:45.318 -> Received 5653 / 24bit Protocol: 1
+13:36:45.412 -> 5653
+13:36:45.412 -> Received 5653 / 24bit Protocol: 1
+13:36:45.516 -> 5653
+13:36:45.516 -> Received 5653 / 24bit Protocol: 1
