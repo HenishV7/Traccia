@@ -1,10 +1,9 @@
-from ast import Pass
 import numpy as np
+from statistics import mean
 import pandas as pd
 
-lst_of_micros = []
 lst_of_delays = []
-
+lst_of_data = []
 isfirstline = True
 
 
@@ -25,26 +24,45 @@ def fetch_the_line_time(dataset, y):
     return t_1
 
 
+def match_the_lines(dataset, y):
+    lst_of_micros = []
+    lst_of_micros.append(fetch_the_line_time(dataset, y))
+    c_line = fetch_the_line_data(dataset, y)
+    v = i + 2
+    while(True):
+        if v < len(dataset):
+            if c_line == fetch_the_line_data(dataset, v):
+                lst_of_micros.append(int(fetch_the_line_time(dataset, v)))
+                v = v + 2
+
+            else:
+                break
+        else:
+            break
+
+    r = [mean(lst_of_micros), v]
+
+    return r
+
+
 if __name__ == "__main__":
     datasheet = pd.read_csv(
         "C:/Users/henis/Downloads/bank/Traccia/Data of Reading No. 1/Rx_1m.txt", header=None)
     x = datasheet.iloc[:, :].values
-
-    for i in range(len(x)):
-        if isfirstline == True:
-            t = str(x[i, :][0])
-            q = i + 2
-            while(True):
-                if(q < len(x)):
-                    if t[16:] == fetch_the_line_data(x, q):
-                        lst_of_micros.append(fetch_the_line_time)
-                        q = q + 2
-                    else:
-                        i = q
-                        break
-            isfirstline = False
+    i = 0
+    while(True):
+        if i < len(x):
+            if i % 2 == 0:
+                lst_of_data.append(fetch_the_line_data(x, i))
+                data = match_the_lines(x, i)
+                lst_of_delays.append(data[0])
+                i = data[1]
+            else:
+                i = i + 1
         else:
-            i = i + 1
-            isfirstline = True
+            break
 
-    print(lst_of_micros)
+    print(lst_of_data)
+    print(lst_of_delays)
+    print(len(lst_of_data))
+    print(len(lst_of_delays))
