@@ -4,7 +4,8 @@ import pandas as pd
 
 lst_of_delays = []
 lst_of_data = []
-isfirstline = True
+
+lst_of_f_data = []
 
 
 def time_to_microseconds(str_of_time):
@@ -47,7 +48,7 @@ def match_the_lines(dataset, y):
 
 if __name__ == "__main__":
     datasheet = pd.read_csv(
-        "C:/Users/henis/Downloads/bank/Traccia/Data of Reading No. 1/Rx_1m.txt", header=None)
+        "C:/Users/henis/Downloads/bank/Traccia/Data of Reading No. 1/Rx_2m.txt", header=None)
     x = datasheet.iloc[:, :].values
     i = 0
     while(True):
@@ -66,3 +67,8 @@ if __name__ == "__main__":
     print(lst_of_delays)
     print(len(lst_of_data))
     print(len(lst_of_delays))
+
+    for i in range(len(lst_of_data)):
+        lst_of_f_data.append([lst_of_data[i], lst_of_delays[i]])
+
+    print(lst_of_f_data)
