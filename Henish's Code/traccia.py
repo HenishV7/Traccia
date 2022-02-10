@@ -4,7 +4,7 @@ import pandas as pd
 
 lst_of_delays = []
 lst_of_data = []
-
+lst_of_delays_diff = []
 lst_of_f_data = []
 
 
@@ -46,9 +46,19 @@ def match_the_lines(dataset, y):
     return r
 
 
+def find_delay_diff():
+    for i in range(len(lst_of_delays)):
+        if i + 1 < len(lst_of_delays):
+            lst_of_delays_diff.append(lst_of_delays[i+1] - lst_of_delays[i])
+        else:
+            break
+
+
 if __name__ == "__main__":
+    r_no = str(input())
+    filePath = "C:/Users/henis/Downloads/bank/Traccia/Data of Reading No. 2/Rx_" + r_no + "m.txt"
     datasheet = pd.read_csv(
-        "C:/Users/henis/Downloads/bank/Traccia/Data of Reading No. 1/Rx_2m.txt", header=None)
+        filePath, header=None)
     x = datasheet.iloc[:, :].values
     i = 0
     while(True):
@@ -63,12 +73,26 @@ if __name__ == "__main__":
         else:
             break
 
-    print(lst_of_data)
-    print(lst_of_delays)
     print(len(lst_of_data))
     print(len(lst_of_delays))
 
-    for i in range(len(lst_of_data)):
-        lst_of_f_data.append([lst_of_data[i], lst_of_delays[i]])
+    find_delay_diff()
 
-    print(lst_of_f_data)
+    print(lst_of_delays_diff)
+
+    s = []
+
+    for i in range(len(lst_of_delays_diff)):
+        s.append(r_no)
+
+    lst_of_delays_diff = np.array(lst_of_delays_diff)
+
+    lst_of_delays_diff.reshape(len(lst_of_delays_diff), 1)
+
+    print(lst_of_delays_diff)
+
+  #  lst_of_f_data.append([lst_of_delays_diff, s])
+
+ #   n
+
+#    np.savetxt('myfile.csv', lst_of_f_data, delimiter=',')
