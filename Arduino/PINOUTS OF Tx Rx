@@ -1,0 +1,23 @@
+#Pinouts In Transmitter
+    Keypad 
+      Left -> Right
+      Digital Pins Upside
+          - 9, 8, 7, 6, 5, 4, 3, 2
+    4-Digit Display
+      VCC - 5v
+      GND - GND
+      CLK - 10
+      DIO - 11
+    Transmitter
+      VCC - 5v
+      ATAD - 12
+      GND - GND
+     
+     
+ 
+
+#Pinouts In Receiver
+    Receiver
+      VCC - 5v
+      DATA - 2
+      GND - GND
