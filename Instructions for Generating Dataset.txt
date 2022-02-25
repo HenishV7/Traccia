@@ -1,0 +1,13 @@
+Instructions of Taking Reading
+
+Switch Off to set distance first.
+
+First Set Distance in the KeyPad not more than 2 digit values. The format on the display 0010 if 10 meter is the distance measured by tap.
+
+Press * to set distance. Rx will get a code. Don't clear output until testing is complete.
+
+Now you can start the button for transmitting data.
+
+Whenever you want to change the distance do the same process.
+
+Save file atlast in text file.

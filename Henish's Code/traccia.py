@@ -6,6 +6,7 @@ lst_of_delays = []
 lst_of_data = []
 
 lst_of_f_data = []
+lst_of_delays_diff = []
 
 
 def time_to_microseconds(str_of_time):
@@ -29,7 +30,7 @@ def match_the_lines(dataset, y):
     lst_of_micros = []
     lst_of_micros.append(fetch_the_line_time(dataset, y))
     c_line = fetch_the_line_data(dataset, y)
-    v = i + 2
+    v = y + 2
     while(True):
         if v < len(dataset):
             if c_line == fetch_the_line_data(dataset, v):
@@ -46,9 +47,15 @@ def match_the_lines(dataset, y):
     return r
 
 
-if __name__ == "__main__":
-    datasheet = pd.read_csv(
-        "C:/Users/henis/Downloads/bank/Traccia/Data of Reading No. 1/Rx_2m.txt", header=None)
+def find_delay_diff(q):
+    for i in range(len(lst_of_delays) - 1):
+        lst_of_delays_diff.append([lst_of_delays[i+1] - lst_of_delays[i], q])
+
+
+def xyz(q):
+    filepath = "C:/Users/henis/Downloads/bank/Traccia/Data of Reading No. 2/Rx_{}m.txt"
+    filepath = filepath.format(q)
+    datasheet = pd.read_csv(filepath, header=None)
     x = datasheet.iloc[:, :].values
     i = 0
     while(True):
@@ -62,13 +69,24 @@ if __name__ == "__main__":
                 i = i + 1
         else:
             break
+    find_delay_diff(int(q))
 
+
+if __name__ == "__main__":
+    x = ['1', '2', '5', '10']
+    for j in x:
+        xyz(j)
     print(lst_of_data)
     print(lst_of_delays)
     print(len(lst_of_data))
     print(len(lst_of_delays))
 
-    for i in range(len(lst_of_data)):
-        lst_of_f_data.append([lst_of_data[i], lst_of_delays[i]])
+    print(lst_of_delays_diff)
 
-    print(lst_of_f_data)
+    lst_of_delays_diff = np.array(lst_of_delays_diff)
+
+    print(lst_of_delays_diff.shape)
+
+    print(lst_of_delays_diff[1])
+
+    np.savetxt('Henish\'s Code/myfile.csv', lst_of_delays_diff, delimiter=',')
